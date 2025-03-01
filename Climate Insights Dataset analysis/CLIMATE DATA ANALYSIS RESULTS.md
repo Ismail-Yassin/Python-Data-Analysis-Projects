@@ -75,7 +75,7 @@ The analysis is based on the `climate_change_data.csv` dataset, which contains t
 
 ## Results  
 1. Analyze historical temperature data to identify long-term trends and seasonal fluctuations.
-![jkdj](Yearly Average Temperature.png)
+[jkl](Python-Data-Analysis-Projects/Climate Insights Dataset analysis/Yearly Average Temperature.png)
 # Conclusion
 
 
